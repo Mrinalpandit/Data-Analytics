@@ -1,1 +1,15 @@
-Its about diwali sales
+                    Diwali Sale Analysis and Dashboard using Power BI
+
+Overview:
+This project is a data analytics case study focused on analyzing the Diwali sales data to derive meaningful insights about customer behavior,sales performance, and product trends.
+The objective is to assist stakeholders in making informed decisions by visualizing data using Power BI.
+
+
+
+Key Objectives:
+To analyze sales trends and performance during the Diwali season.
+To identify customer demographics contributing to the highest sales.
+To understand the performance of different product categories and regions.
+To create an interactive Power BI dashboard for real-time insights.
+
+Sample dataset can be downloaded from Kaggle
