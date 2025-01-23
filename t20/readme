@@ -1,1 +1,29 @@
-Its about cricket
+                      T20 Cricket Innings Analysis and Dashboard
+
+
+Overview:
+This project focuses on analyzing T20 cricket match data from two innings to extract insights on match performance, player contributions, and team strategies.
+The analysis is supported by visualizations created in Python, aiming to provide actionable insights for fans, analysts, and decision-makers in cricket.
+
+Key Objectives:
+1) To analyze ball-by-ball data from T20 matches to identify patterns and trends.
+2) To evaluate team and player performance metrics such as runs scored, wickets taken, and game-changing overs.
+3) To build an interactive dashboard in Power BI for dynamic data exploration.
+
+
+Data Sources:
+
+1st Innings Data
+Shape: (91,964 rows, 10 columns)
+Columns:
+matchId: Unique identifier for matches.
+balls: Ball-by-ball progression.
+runs: Runs scored on each ball.
+tossWinner: Team that won the toss.
+battingTeam & bowlingTeam: Teams participating in the match.
+player_out: Indicator for wickets.
+city & venue: Match location details.
+
+2nd Innings Data
+Shape: (83,320 rows, 10 columns)
+Columns: Similar to the 1st innings dataset.
